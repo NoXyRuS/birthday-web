@@ -1,0 +1,708 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --rose: #ff6b9d;
+  --rose-soft: #ffc2d4;
+  --purple: #8e6bff;
+  --cream: #fff7f9;
+  --text: #5b2a45;
+  --text-soft: #9a6b86;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: var(--text);
+  background: linear-gradient(160deg, #2a0845 0%, #6441a5 45%, #ff6b9d 100%);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  padding: 0 20px 40px;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 860px;
+  margin: 0 auto 0;
+  padding: 12px 22px;
+  background: rgba(255, 247, 249, 0.82);
+  backdrop-filter: blur(10px);
+  border-radius: 0 0 18px 18px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.15);
+}
+
+.nav-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--rose);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nav-brand svg {
+  width: 20px;
+  height: 20px;
+  fill: var(--rose);
+}
+
+.nav-links {
+  display: flex;
+  gap: 4px;
+  margin: 0 auto;
+}
+
+/* Para volver a mostrar Momentos, quita la clase "hidden" del botón en index.html */
+.hidden {
+  display: none;
+}
+
+.nav-link {
+  background: none;
+  border: 1px solid transparent;
+  color: var(--text);
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 0.98rem;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+
+.nav-link:hover {
+  background: var(--rose-soft);
+  color: var(--text);
+  transform: scale(1.04);
+}
+
+.nav-link.active {
+  background: linear-gradient(140deg, var(--rose) 0%, var(--purple) 100%);
+  color: #fff;
+}
+
+@media (max-width: 620px) {
+  .navbar {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .nav-links {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+.nav-calendar {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(140deg, var(--rose) 0%, var(--purple) 100%);
+  border: none;
+  color: #fff;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 9px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 6px 18px rgba(255, 107, 157, 0.4);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.nav-calendar:hover {
+  transform: scale(1.04);
+  box-shadow: 0 8px 22px rgba(255, 107, 157, 0.55);
+}
+
+.nav-calendar svg {
+  width: 16px;
+  height: 16px;
+  fill: #fff;
+}
+
+main {
+  position: relative;
+  z-index: 1;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 26px 0 0;
+}
+
+#hearts {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.fly-heart {
+  position: absolute;
+  bottom: -40px;
+  width: 18px;
+  height: 18px;
+  opacity: 0;
+  animation: fly 11s linear infinite;
+}
+
+.fly-heart svg {
+  width: 100%;
+  height: 100%;
+  fill: rgba(255, 255, 255, 0.55);
+}
+
+@keyframes fly {
+  0% {
+    transform: translateY(0) translateX(0) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.7;
+  }
+  50% {
+    transform: translateY(-50vh) translateX(22px) rotate(12deg);
+  }
+  100% {
+    transform: translateY(-110vh) translateX(-32px) rotate(-16deg);
+    opacity: 0;
+  }
+}
+
+.hero {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  padding: 30px 0 30px;
+}
+
+.title {
+  font-family: 'Dancing Script', cursive;
+  font-size: clamp(2.6rem, 8vw, 4.2rem);
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 3px 18px rgba(0, 0, 0, 0.35);
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: 1.15rem;
+  color: rgba(255, 255, 255, 0.92);
+  margin-top: 6px;
+}
+
+.section {
+  background: rgba(255, 247, 249, 0.96);
+  border-radius: 22px;
+  padding: 28px 26px 32px;
+  margin-bottom: 26px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.25);
+}
+
+.section-title {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  color: var(--rose);
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.countdown {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.count-box {
+  background: linear-gradient(140deg, var(--rose) 0%, var(--purple) 100%);
+  color: #fff;
+  border-radius: 16px;
+  min-width: 82px;
+  padding: 16px 10px;
+  text-align: center;
+  box-shadow: 0 8px 22px rgba(255, 107, 157, 0.4);
+}
+
+.count-num {
+  display: block;
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.count-label {
+  display: block;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  opacity: 0.92;
+  margin-top: 6px;
+}
+
+.target-text {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-soft);
+  margin-top: 16px;
+}
+
+.birthday-message {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.9rem;
+  color: var(--rose);
+  text-align: center;
+  padding: 10px 0;
+}
+
+.poem-card {
+  border: 1px solid var(--rose-soft);
+  border-radius: 16px;
+  padding: 24px 22px;
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(255, 107, 157, 0.15);
+}
+
+.poem-date {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.3rem;
+  color: var(--purple);
+  text-align: center;
+  font-weight: 700;
+}
+
+.poem-text {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  white-space: pre-line;
+  text-align: center;
+  margin-top: 12px;
+}
+
+.poem-sign {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.5rem;
+  color: var(--rose);
+  text-align: center;
+  margin-top: 18px;
+  font-weight: 700;
+}
+
+.placeholder {
+  font-style: italic;
+  font-size: 1.15rem;
+  color: var(--text-soft);
+  text-align: center;
+  line-height: 1.6;
+  padding: 8px 4px;
+}
+
+footer {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(42, 8, 69, 0.55);
+}
+
+.modal.open {
+  display: flex;
+}
+
+.modal-card {
+  position: relative;
+  width: 100%;
+  max-width: 420px;
+  max-height: 90vh;
+  overflow: auto;
+  background: #fff;
+  border-radius: 22px;
+  padding: 26px 22px 20px;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.4);
+}
+
+.modal-close {
+  position: absolute;
+  top: 8px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 1.9rem;
+  line-height: 1;
+  color: var(--text-soft);
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  color: var(--rose);
+}
+
+.modal-title {
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.7rem;
+  color: var(--rose);
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.cal-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.cal-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text);
+  text-transform: capitalize;
+}
+
+.cal-arrow {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1px solid var(--rose-soft);
+  background: #fff;
+  color: var(--rose);
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cal-arrow:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.cal-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-bottom: 6px;
+}
+
+.cal-weekdays span {
+  text-align: center;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-soft);
+  font-weight: 600;
+}
+
+.cal-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.cal-day {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  position: relative;
+  font-size: 0.95rem;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.cal-day.empty {
+  visibility: hidden;
+}
+
+.cal-day.disabled {
+  color: #d9c2ce;
+}
+
+.cal-day.selectable {
+  background: #fdf0f5;
+  color: var(--text);
+  border: 1px solid transparent;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
+}
+
+.cal-day.selectable:hover {
+  background: var(--rose-soft);
+  transform: scale(1.06);
+  border-color: var(--rose);
+}
+
+.cal-day.selectable.has-poem::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--rose);
+}
+
+.cal-day.selectable.today {
+  background: #fff0b8;
+}
+
+.cal-day.selectable.selected {
+  background: linear-gradient(140deg, var(--rose) 0%, var(--purple) 100%);
+  color: #fff;
+}
+
+.cal-day.selectable.selected.has-poem::after {
+  background: #fff;
+}
+
+.cal-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 12px;
+  font-size: 0.85rem;
+  color: var(--text-soft);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.legend-heart {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--rose);
+  display: inline-block;
+}
+
+.legend-today {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #fff0b8;
+  border: 1px solid #e0b94a;
+  display: inline-block;
+}
+
+.footer-heart {
+  width: 32px;
+  height: 30px;
+  fill: var(--rose-soft);
+  animation: pulse 1.8s ease-in-out infinite;
+}
+
+.footer-text {
+  margin-top: 8px;
+  color: rgba(255, 255, 255, 0.9);
+  font-style: italic;
+  font-size: 1.05rem;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.18);
+  }
+}
+
+/* ---- Máquina de escribir ---- */
+
+.poem-text.is-typing::after {
+  content: '|';
+  margin-left: 2px;
+  color: var(--rose);
+  animation: cursor-blink 0.9s steps(1) infinite;
+}
+
+@keyframes cursor-blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.poem-sign-hidden {
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.poem-sign-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* ---- Vistas ---- */
+
+.view {
+  display: none;
+}
+
+.view.active {
+  display: block;
+  animation: view-in 0.4s ease;
+}
+
+@keyframes view-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.poem-hint {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-soft);
+  margin-top: 16px;
+}
+
+/* ---- Galería ---- */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.foto-item {
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
+  aspect-ratio: 1 / 1;
+  background: #fdf0f5;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(255, 107, 157, 0.15);
+}
+
+.foto-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.foto-item:hover img {
+  transform: scale(1.05);
+}
+
+.foto-placeholder {
+  position: absolute;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-style: italic;
+  color: var(--text-soft);
+  padding: 10px;
+}
+
+.foto-item.sin-foto img {
+  display: none;
+}
+
+.foto-item.sin-foto .foto-placeholder {
+  display: flex;
+}
+
+/* ---- Lightbox ---- */
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(42, 8, 69, 0.85);
+  padding: 24px;
+}
+
+.lightbox.open {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 90vh;
+  border-radius: 14px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+.lightbox-close {
+  position: fixed;
+  top: 18px;
+  right: 24px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 2.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+/* ---- Confeti ---- */
+
+.confetti {
+  position: fixed;
+  top: -20px;
+  z-index: 40;
+  border-radius: 2px;
+  pointer-events: none;
+  opacity: 0.95;
+  animation-name: confetti-fall;
+  animation-timing-function: ease-in;
+  animation-fill-mode: forwards;
+}
+
+@keyframes confetti-fall {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(115vh) rotate(640deg);
+    opacity: 0.7;
+  }
+}

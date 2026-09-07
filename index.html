@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para mi amor</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <span class="nav-brand">
+      <svg viewBox="0 0 32 29.6">
+        <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z"/>
+      </svg>
+      Para mi amor
+    </span>
+    <div class="nav-links">
+      <button class="nav-link active" type="button" data-view="inicio">Inicio</button>
+      <button class="nav-link" type="button" data-view="poesia">Poesía</button>
+      <button class="nav-link hidden" type="button" data-view="momentos">Momentos</button>
+    </div>
+    <button class="nav-calendar" id="open-calendar" type="button">
+      <svg viewBox="0 0 24 24">
+        <path d="M19 4h-1V2h-2v2H8V2H6v2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 16H5V9h14v11zM7 11h2v2H7v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2z"/>
+      </svg>
+      Calendario
+    </button>
+  </nav>
+
+  <div id="hearts" aria-hidden="true"></div>
+
+  <main>
+    <section class="view active" id="view-inicio">
+      <header class="hero">
+        <h1 class="title">Para mi amor</h1>
+        <p class="subtitle">Cada segundo me acerco más a tu día</p>
+      </header>
+      <section class="section countdown-section">
+        <h2 class="section-title">Faltan</h2>
+        <div class="countdown" id="countdown">
+          <div class="count-box">
+            <span class="count-num" id="days">0</span>
+            <span class="count-label">días</span>
+          </div>
+          <div class="count-box">
+            <span class="count-num" id="hours">0</span>
+            <span class="count-label">horas</span>
+          </div>
+          <div class="count-box">
+            <span class="count-num" id="minutes">0</span>
+            <span class="count-label">minutos</span>
+          </div>
+          <div class="count-box">
+            <span class="count-num" id="seconds">0</span>
+            <span class="count-label">segundos</span>
+          </div>
+        </div>
+        <p class="target-text" id="target-text"></p>
+      </section>
+    </section>
+
+    <section class="view" id="view-poesia">
+      <section class="section poem-section">
+        <h2 class="section-title">Poesía del día</h2>
+        <div class="poem-card" id="poem-of-the-day"></div>
+        <p class="poem-hint">¿Quieres ver otras poesías? Ábrelas en el calendario</p>
+      </section>
+    </section>
+
+    <section class="view" id="view-momentos">
+      <section class="section gallery-section">
+        <h2 class="section-title">Nuestros momentos</h2>
+        <div class="gallery" id="gallery"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <svg class="footer-heart" viewBox="0 0 32 29.6">
+      <path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z"/>
+    </svg>
+    <p class="footer-text">Con todo mi amor, para ti</p>
+  </footer>
+
+  <div class="modal" id="calendar-modal">
+    <div class="modal-card">
+      <button class="modal-close" id="close-calendar" type="button" aria-label="Cerrar">&times;</button>
+      <h3 class="modal-title">Nuestro calendario</h3>
+      <div class="cal-nav">
+        <button class="cal-arrow" id="cal-prev" type="button">&lsaquo;</button>
+        <span class="cal-title" id="cal-title"></span>
+        <button class="cal-arrow" id="cal-next" type="button">&rsaquo;</button>
+      </div>
+      <div class="cal-weekdays">
+        <span>Lu</span><span>Ma</span><span>Mi</span><span>Ju</span><span>Vi</span><span>S&aacute;</span><span>Do</span>
+      </div>
+      <div class="cal-grid" id="cal-grid"></div>
+      <div class="cal-legend">
+        <span class="legend-item"><span class="legend-heart"></span> con poes&iacute;a</span>
+        <span class="legend-item"><span class="legend-today"></span> hoy</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" id="lightbox-close" type="button" aria-label="Cerrar">&times;</button>
+    <img id="lightbox-img" alt="Foto">
+  </div>
+
+  <script src="config.js"></script>
+  <script src="poems.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
