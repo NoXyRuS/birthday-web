@@ -74,7 +74,6 @@
 
   // ---- Poesías ----
 
-  var SIGN = 'Feliz cumpleaños mi amor';
   var poems = window.POEMS || {};
 
   var MESES = [
@@ -134,11 +133,9 @@
     stopTyping();
     dayEl.innerHTML =
       '<p class="poem-date">' + erase(dateLabel) + '</p>' +
-      '<p class="poem-text is-typing"></p>' +
-      '<p class="poem-sign poem-sign-hidden">' + SIGN + '</p>';
+      '<p class="poem-text is-typing"></p>';
 
     var textEl = dayEl.querySelector('.poem-text');
-    var signEl = dayEl.querySelector('.poem-sign');
     var len = text.length;
     var i = 0;
 
@@ -148,7 +145,6 @@
       if (i >= len) {
         stopTyping();
         textEl.classList.remove('is-typing');
-        signEl.classList.add('poem-sign-visible');
       }
     }
 
