@@ -7,7 +7,6 @@
       "AAAA-MM-DD": "El texto de tu poesía...",
 
   La fecha debe estar entre comillas y separada del texto por dos puntos.
-  Al final de cada poesía verás:  Feliz cumpleaños mi amor
 */
 
 window.POEMS = {
