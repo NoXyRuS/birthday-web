@@ -50,5 +50,44 @@ porque todavía me quedan muchos versos para hablarte de mi amor.
 Y si hoy pudiera pedir un deseo para empezar,
 sería sencillo:
 
-seguir encontrando nuevas razones para amarte un poquito más.`
+seguir encontrando nuevas razones para amarte un poquito más.`,
+  "2026-09-09": `En cada pequeño detalle te vuelvo a encontrar,
+en cada sonrisa tuya que me hace suspirar,
+en cada palabra que me invita a sonreír,
+y en esas pequeñas cosas que me hacen pensar en ti.
+
+Me encanta tu manera tan bonita de querer,
+tu forma de mirarme, tu manera de ser,
+me encantan tus ocurrencias, tu forma de hablar,
+y hasta esas pequeñas cosas que no dejas de hacerme amar.
+
+Escucharte hablar de tu día me hace ilusión,
+porque hasta una historia simple alegra mi corazón,
+y cuando me cuentas cualquier cosa sin pensar,
+yo podría quedarme horas simplemente escuchándote hablar.
+
+Me gusta saber de ti, saber cómo estás,
+saber qué te hizo reír y qué quieres contar,
+porque formar parte de tus días, aunque sea un poquito,
+se ha vuelto para mí uno de mis lugares favoritos.
+
+Y es curioso cómo puedes, sin siquiera intentarlo,
+hacer que un día cualquiera termine mejorarlo,
+porque basta con tenerte un momento junto a mí
+para que todo parezca un poquito más feliz.
+
+Me gusta quererte, me gusta cuidarte,
+me gusta tener mil motivos para admirarte,
+y aunque cada día descubra algo nuevo de ti,
+lo que más me gusta es poder decir: "ella está junto a mí".
+
+Porque no es solo tu sonrisa, ni tu forma de mirar,
+son todas esas pequeñas cosas que me hacen suspirar,
+es la persona que eres, completa y de verdad,
+la que hace que quererte se sienta tan natural.
+
+Y si mañana descubro otra razón para sonreír,
+seguramente tendrá algo que ver contigo.
+Porque cuanto más te conozco, más puedo comprender
+que todavía me quedan muchas razones para quererte.`
 };
