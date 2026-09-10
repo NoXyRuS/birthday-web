@@ -89,5 +89,44 @@ la que hace que quererte se sienta tan natural.
 Y si mañana descubro otra razón para sonreír,
 seguramente tendrá algo que ver contigo.
 Porque cuanto más te conozco, más puedo comprender
-que todavía me quedan muchas razones para quererte.`
+que todavía me quedan muchas razones para quererte.`,
+  "2026-09-10": `Lo bonito de quererte es que no necesito una razón,
+porque basta con pensarte para alegrarme el corazón.
+Lo bonito de tenerte, aunque sea en la distancia,
+es saber que tu cariño tiene un lugar en mi constancia.
+
+La verdad es que me encanta cuando pienso en ti,
+porque hasta en los días grises consigues hacerme sonreír.
+Me gusta recordar tus palabras, tu manera de hablar,
+y esas pequeñas cosas que no dejo de guardar.
+
+Lo que siento por ti no llegó de repente,
+fue creciendo poco a poco, de una forma diferente.
+Entre risas y momentos que quisiera repetir,
+fuiste haciendo de mi mundo un lugar más feliz.
+
+Me gusta cómo contigo puedo ser completamente yo,
+sin tener que esconder nada de lo que siento por las dos.
+Puedo contarte mis cosas, mis sueños y algún temor,
+y sentir que al escucharte todo tiene un poco más de color.
+
+Y cuando me preguntan qué es lo que veo en ti,
+me cuesta encontrar una respuesta que pueda resumir
+todo lo que provocas cuando estás cerca de mí,
+porque son tantas pequeñas cosas que no caben aquí.
+
+Me gusta tu forma de querer, tu manera de cuidar,
+cómo haces que un momento sencillo se vuelva especial.
+Y aunque quizá no lo notes, aunque no lo puedas ver,
+hay partes de mí que aprendieron contigo a querer.
+
+Lo lindo de lo nuestro es poderlo construir,
+guardar nuevos recuerdos y tener más por vivir.
+Seguir conociéndonos, seguirnos sorprendiendo,
+y descubrir que aún podemos seguirnos queriendo.
+
+Y si tuviera que decirte qué siento en una oración,
+sería que tenerte en mi vida es una hermosa sensación.
+Porque entre tantas cosas que podría agradecer,
+una de mis favoritas siempre será haberte podido conocer.`
 };
