@@ -128,5 +128,35 @@ y descubrir que aún podemos seguirnos queriendo.
 Y si tuviera que decirte qué siento en una oración,
 sería que tenerte en mi vida es una hermosa sensación.
 Porque entre tantas cosas que podría agradecer,
-una de mis favoritas siempre será haberte podido conocer.`
+una de mis favoritas siempre será haberte podido conocer.`,
+"2026-09-11": `Inquieta la noche cuando aparece tu luz,
+como si hasta las estrellas quisieran verte un poco más.
+Hay algo en el cielo que cambia cuando llegas,
+algo que no sé nombrar, pero que siempre me atrae.
+
+Imagino que la primavera aprendió de ti
+esa manera tan dulce de despertar los colores,
+porque hasta las flores parecen guardar
+un secreto parecido al que llevas en los ojos.
+
+Y el mar, con toda su inmensidad,
+todavía no conoce la calma que encuentro en ti.
+Podría pasarme horas escuchando sus olas,
+pero ninguna tendría tu manera de hacerme sentir.
+
+La luna podría quedarse despierta toda la noche,
+intentando descubrir de dónde nace tu claridad,
+mientras el amanecer, celoso de tu brillo,
+se apresura a llenar de luz cada rincón.
+
+Incluso el tiempo parece detenerse
+cuando la belleza decide caminar despacio.
+Y quizá por eso hay momentos que duran tan poco,
+pero dejan en el corazón una eternidad.
+
+Hay cosas que fueron hechas para contemplarse:
+el cielo después de la lluvia,
+una flor abriéndose con los primeros rayos del día,
+y tú, simplemente tú,
+como si la belleza hubiera encontrado una forma de quedarse.`,
 };
