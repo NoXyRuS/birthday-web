@@ -187,4 +187,33 @@ esa manera tuya de mirar, de sonreír sin saber cuánto iluminas,
 de existir con tanta naturalidad
 y hacer que hasta un instante cualquiera
 parezca digno de quedarse para siempre.`,
+  "2026-09-13": `Como la luna cuando el cielo se queda en silencio,
+llegas despacio y cambias el color del momento.
+No haces ruido, no anuncias tu llegada,
+y aun así, después de ti, nada vuelve a ser igual.
+
+Cae la tarde sobre los tejados,
+y el viento juega entre los árboles cansados;
+pero hay algo más suave que la brisa al pasar,
+algo que tiene tu forma y no sé cómo nombrar.
+
+Caminan las estrellas buscando su lugar,
+mientras la noche se aprende tu manera de brillar.
+Y hasta el cielo, con toda su inmensidad,
+parece pequeño cuando te quiere retratar.
+
+Crece la primavera donde antes hubo invierno,
+como si la luz pudiera despertar lo que estaba durmiendo.
+Así se siente aquello que llevas contigo:
+una pequeña claridad que encuentra camino.
+
+Y si la noche pudiera guardar un secreto,
+quizá escribiría tu nombre en algún rincón del cielo;
+no para que nadie pudiera saberlo,
+sino para que la luna tuviera algo bonito que leer.
+
+Porque hay bellezas que no piden ser entendidas,
+solo contempladas mientras pasan por la vida.
+Y tú tienes esa extraña forma de existir:
+como un verso que el tiempo no consigue terminar.`,
 };
