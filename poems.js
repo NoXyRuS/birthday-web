@@ -159,4 +159,32 @@ el cielo después de la lluvia,
 una flor abriéndose con los primeros rayos del día,
 y tú, simplemente tú,
 como si la belleza hubiera encontrado una forma de quedarse.`,
+  "2026-09-12": `Zarpan las nubes lentamente al caer la tarde,
+y el cielo se queda esperando que algo cambie.
+Entonces aparece esa luz sobre el horizonte,
+la misma que parece esconderse en tu mirada.
+
+Zafiros serían tus ojos bajo la noche,
+si no fuera porque tienen algo que ninguna piedra conoce:
+una profundidad tranquila, difícil de explicar,
+de esas que hacen que uno quiera quedarse a mirar.
+
+Zumban las hojas cuando despierta la brisa,
+pero hay silencios que contigo suenan distinto.
+Como una tarde que no necesita palabras,
+como la calma que llega cuando todo encuentra su sitio.
+
+Zigzaguea la luz entre las ramas,
+dejando pequeños destellos sobre el suelo,
+y pienso en esa forma tan tuya de iluminar
+sin darte cuenta, sin siquiera intentarlo.
+
+Zarpa la noche sobre un mar tranquilo,
+mientras la luna se queda cuidando el cielo.
+Y entre tanta belleza que existe allá afuera,
+todavía hay algo que consigue parecerme más bonito:
+esa manera tuya de mirar, de sonreír sin saber cuánto iluminas,
+de existir con tanta naturalidad
+y hacer que hasta un instante cualquiera
+parezca digno de quedarse para siempre.`,
 };
