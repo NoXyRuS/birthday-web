@@ -249,5 +249,40 @@ encuentre finalmente dónde quedarse.
 
 Quizá por eso, cuando intento escribirte,
 las palabras dejan de ser palabras
-y comienzan a buscarte.`
+y comienzan a buscarte.`,
+  "2026-09-15": `Madruga la luz sobre los tejados,
+despierta despacio los jardines mojados,
+y el sol, todavía tímido detrás de la montaña,
+deja sobre el mundo una claridad dorada.
+
+Mientras las flores inclinan sus pétalos al viento,
+el día se abre como un viejo secreto,
+y entre tanta belleza que nace sin prisa,
+hay algo que me recuerda la curva de tu sonrisa.
+
+Murmura el río historias que nadie ha contado,
+lleva entre sus aguas reflejos del pasado;
+pero si alguna vez pudiera aprender a mirar,
+guardaría tus ojos para no dejar de soñar.
+
+Las rosas conocen el lenguaje de la primavera,
+la luna sabe de noches largas y eternas,
+el cielo conoce la manera de abrazar la distancia,
+pero ninguno conoce tu particular elegancia.
+
+Miro las nubes dibujarse sobre el horizonte,
+como versos que el viento escribe sobre los montes,
+y pienso que quizá la belleza no está en lo que veo,
+sino en aquello que despierta cuando te recuerdo.
+
+Porque desde que existes en mis pensamientos,
+las cosas pequeñas parecen tener otro significado:
+una tarde cualquiera puede parecer un poema,
+y una flor cualquiera puede parecer un retrato.
+
+Mas hay algo que todavía no comprende la poesía:
+cómo guardar en unas líneas tanta belleza reunida.
+Quizá por eso sigo escribiendo, aunque nunca sea suficiente,
+porque algunas musas no caben en un verso,
+por más que el poeta lo intente.`
 };
