@@ -216,4 +216,38 @@ Porque hay bellezas que no piden ser entendidas,
 solo contempladas mientras pasan por la vida.
 Y tú tienes esa extraña forma de existir:
 como un verso que el tiempo no consigue terminar.`,
+  "2026-09-14": `Una lluvia de abril podría caer sobre las flores,
+y aun así no tendría la dulzura de tus colores.
+El viento podría aprender mil formas de bailar,
+pero ninguna tendría tu manera de llegar.
+
+Un jardín entero podría vestirse de primavera,
+llenarse de rosas, de jazmines y enredaderas;
+pero habría una flor que elegiría entre todas,
+una que florece incluso cuando el resto se esconde.
+
+Un río podría recorrer la tierra durante siglos,
+conocer montañas, valles y caminos antiguos,
+pero si alguna vez encontrara el reflejo de tus ojos,
+olvidaría su rumbo para quedarse entre ellos.
+
+Una tarde podría guardar el último rayo de sol,
+pintar de oro las nubes y encender el horizonte;
+pero bastaría tu sonrisa para que el cielo comprendiera
+que todavía existen formas más bonitas de iluminar.
+
+Un poeta podría pasar la vida buscando palabras,
+llenando cuadernos con versos y madrugadas,
+y quizá después de escribir cientos de poemas
+descubriría que ninguno consigue decirte completa.
+
+Porque hay musas que nacen de la imaginación
+y otras que llegan sin pedirle permiso a la inspiración.
+Y tú tienes esa forma de volver poesía lo cotidiano,
+de hacer que hasta un verso perdido
+encuentre finalmente dónde quedarse.
+
+Quizá por eso, cuando intento escribirte,
+las palabras dejan de ser palabras
+y comienzan a buscarte.`
 };
