@@ -284,5 +284,34 @@ Mas hay algo que todavía no comprende la poesía:
 cómo guardar en unas líneas tanta belleza reunida.
 Quizá por eso sigo escribiendo, aunque nunca sea suficiente,
 porque algunas musas no caben en un verso,
-por más que el poeta lo intente.`
+por más que el poeta lo intente.`,
+  "2026-09-16": `Ojalá pudiera el cielo guardar un poco de tu luz,
+para pintar las noches con un resplandor azul.
+Ojalá las flores aprendieran de ti
+esa manera tan dulce de volver a florecer así.
+
+Ojalá el viento supiera pronunciar tu nombre,
+para llevarlo consigo sobre los campos y los montes,
+y que al pasar entre las ramas de algún viejo jardín,
+dejara un poco de tu esencia escondida por ahí.
+
+Ojalá la luna pudiera mirarte de cerca,
+para entender de dónde nace tanta belleza.
+Quizá escondería su brillo detrás de algún rincón,
+al descubrir que tus ojos tienen su propia constelación.
+
+Ojalá el mar pudiera guardar tu reflejo,
+entre sus olas tranquilas y su azul perfecto.
+Tal vez olvidaría el camino de regreso a la orilla,
+si pudiera quedarse contemplando tu mirada tranquila.
+
+Ojalá pudiera el tiempo detenerse un instante,
+justo cuando tu sonrisa aparece radiante,
+para guardar ese segundo, pequeño y especial,
+como quien guarda una flor que no quiere marchitar.
+
+Ojalá las palabras pudieran decir lo que siento,
+sin quedarse pequeñas frente a todo lo que llevo dentro.
+Porque cada vez que intento convertirte en poesía,
+termino descubriendo que tú eres más bonita que cualquier rima.`
 };
