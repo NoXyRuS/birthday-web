@@ -313,5 +313,39 @@ como quien guarda una flor que no quiere marchitar.
 Ojalá las palabras pudieran decir lo que siento,
 sin quedarse pequeñas frente a todo lo que llevo dentro.
 Porque cada vez que intento convertirte en poesía,
-termino descubriendo que tú eres más bonita que cualquier rima.`
+termino descubriendo que tú eres más bonita que cualquier rima.`,
+  "2026-09-17": `Sobre el cielo se derrama lentamente la mañana,
+y la luz acaricia los pétalos de una flor temprana.
+El mundo despierta con su calma habitual,
+pero hay bellezas que vuelven distinto lo cotidiano y normal.
+
+Se quedan las nubes dormidas sobre el horizonte,
+mientras el viento se pierde entre los árboles del monte.
+Y en ese silencio que comienza a despertar,
+hay una dulzura que me hace en ti pensar.
+
+Se viste de oro la tarde cuando el sol comienza a caer,
+como si el cielo también quisiera aprender a florecer.
+Las sombras se alargan, la brisa empieza a pasar,
+y hasta el último rayo parece querer esperar.
+
+Se esconden las estrellas cuando llega el amanecer,
+pero ninguna olvida su manera de volver.
+Y hay miradas que tienen algo parecido a ese brillo:
+aparecen por un instante y dejan luz en el camino.
+
+Se puede llenar un jardín de flores y color,
+de rosas, de jazmines y perfume alrededor;
+pero hay una belleza que no necesita primavera,
+porque florece por sí sola, de una forma verdadera.
+
+Si alguna vez la poesía pudiera escoger
+qué belleza guardar y cuál dejar desaparecer,
+no escogería la luna, ni el cielo, ni el mar:
+guardaría aquello que me recuerda a tu forma de mirar.
+
+Y quizá por eso, cuando la tarde se apaga
+y la última luz sobre los tejados se derrama,
+el mundo sigue siendo hermoso, eso es verdad,
+pero desde que existes, tiene otra forma de brillar.`
 };
