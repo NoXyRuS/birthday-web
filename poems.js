@@ -347,5 +347,40 @@ guardaría aquello que me recuerda a tu forma de mirar.
 Y quizá por eso, cuando la tarde se apaga
 y la última luz sobre los tejados se derrama,
 el mundo sigue siendo hermoso, eso es verdad,
-pero desde que existes, tiene otra forma de brillar.`
+pero desde que existes, tiene otra forma de brillar.`,
+  "2026-09-18": `A veces la tinta sabe cosas que yo no sé decir,
+se mueve entre mis manos cuando pienso en ti.
+Y sin pedir permiso comienza a dibujar
+aquello que mis palabras no consiguen explicar.
+
+Aparecen en el papel pequeñas maravillas,
+versos que nacen despacio, como nacen las semillas.
+Una palabra busca a otra y la vuelve canción,
+como si cada letra conociera el camino a tu corazón.
+
+Afuera la tarde derrama su último color,
+mientras el papel se llena poco a poco de tu esencia.
+No sé qué tiene tu presencia en mi imaginación,
+que hasta el silencio parece tener inspiración.
+
+A veces quisiera escribirte un poema perfecto,
+de esos que sobreviven al paso del tiempo.
+Pero cada vez que creo haber encontrado el final,
+aparece otro verso que te vuelve a nombrar.
+
+Así nacen los poemas que llevan tu mirada,
+entre palabras sencillas y noches prolongadas.
+No buscan explicar lo que resulta inexplicable,
+solo guardar un instante de algo inolvidable.
+
+Y si alguna vez la tinta deja de correr,
+será porque ya no encontró qué más decir de ti.
+Aunque dudo que eso llegue a suceder,
+porque siempre habrá una página donde vuelvas a aparecer.
+
+Al final, quizá eso hacen las musas sin saber:
+dejan al poeta con ganas de volver a escribir otra vez.
+Y tú, sin hacer nada, consigues esa magia,
+hacer que hasta una hoja en blanco
+tenga ganas de convertirse en poesía.`
 };
