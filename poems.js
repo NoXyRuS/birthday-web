@@ -285,102 +285,157 @@ cómo guardar en unas líneas tanta belleza reunida.
 Quizá por eso sigo escribiendo, aunque nunca sea suficiente,
 porque algunas musas no caben en un verso,
 por más que el poeta lo intente.`,
-  "2026-09-16": `Ojalá pudiera el cielo guardar un poco de tu luz,
-para pintar las noches con un resplandor azul.
-Ojalá las flores aprendieran de ti
-esa manera tan dulce de volver a florecer así.
+  "2026-09-16": `Parece que la tarde conoce tu nombre,
+porque cuando cae despacio, algo de ti se esconde
+entre los tonos dorados que deja el sol,
+entre la calma que precede a la noche y su resplandor.
 
-Ojalá el viento supiera pronunciar tu nombre,
-para llevarlo consigo sobre los campos y los montes,
-y que al pasar entre las ramas de algún viejo jardín,
-dejara un poco de tu esencia escondida por ahí.
+Pasan las horas como agua entre los dedos,
+dejando pequeños instantes, pequeños secretos;
+pero hay algo que el tiempo no consigue llevar,
+una belleza que permanece aunque todo vuelva a cambiar.
 
-Ojalá la luna pudiera mirarte de cerca,
-para entender de dónde nace tanta belleza.
-Quizá escondería su brillo detrás de algún rincón,
-al descubrir que tus ojos tienen su propia constelación.
+Podría el otoño deshojar cada camino,
+llevarse los colores y apagar el trino;
+aun así, quedaría una última señal:
+esa forma tuya de hacer bonito lo que parece normal.
 
-Ojalá el mar pudiera guardar tu reflejo,
-entre sus olas tranquilas y su azul perfecto.
-Tal vez olvidaría el camino de regreso a la orilla,
-si pudiera quedarse contemplando tu mirada tranquila.
+Pinta el viento sobre los árboles su propia melodía,
+mientras la tarde se despide lentamente del día.
+Y entre tantos colores que intenta inventar,
+ninguno encuentra la forma exacta de tu mirar.
 
-Ojalá pudiera el tiempo detenerse un instante,
-justo cuando tu sonrisa aparece radiante,
-para guardar ese segundo, pequeño y especial,
-como quien guarda una flor que no quiere marchitar.
+Quizá por eso la poesía nunca termina de encontrarte,
+porque cada verso descubre una nueva forma de nombrarte.
+Y cuando creo haber llegado al final,
+aparece otra palabra que te vuelve a retratar.
 
-Ojalá las palabras pudieran decir lo que siento,
-sin quedarse pequeñas frente a todo lo que llevo dentro.
-Porque cada vez que intento convertirte en poesía,
-termino descubriendo que tú eres más bonita que cualquier rima.`,
-  "2026-09-17": `Sobre el cielo se derrama lentamente la mañana,
-y la luz acaricia los pétalos de una flor temprana.
-El mundo despierta con su calma habitual,
-pero hay bellezas que vuelven distinto lo cotidiano y normal.
+Parece injusto pedirle tanto a un poema:
+que guarde tu esencia sin perder siquiera una pequeña parte de ella.
+Pero si alguna vez consigue acercarse a tu verdad,
+será porque la tinta también aprendió a admirarte.`,
+  "2026-09-17": `Leve como la brisa que atraviesa una ventana,
+llegas a los pensamientos sin anunciar la mañana.
+No haces ruido, no buscas llamar la atención,
+y aun así dejas huellas en cada rincón.
 
-Se quedan las nubes dormidas sobre el horizonte,
-mientras el viento se pierde entre los árboles del monte.
-Y en ese silencio que comienza a despertar,
-hay una dulzura que me hace en ti pensar.
+Las horas pueden correr, los días pueden cambiar,
+puede el invierno llegar y luego marcharse al pasar;
+pero existen ciertas cosas que el tiempo no mueve,
+como esa luz escondida que en tus ojos llueve.
 
-Se viste de oro la tarde cuando el sol comienza a caer,
-como si el cielo también quisiera aprender a florecer.
-Las sombras se alargan, la brisa empieza a pasar,
-y hasta el último rayo parece querer esperar.
+La tarde guarda secretos detrás de los balcones,
+el viento los recoge y los convierte en canciones.
+Y entre todas las voces que se lleva al caminar,
+hay una que siempre termina queriendo regresar.
 
-Se esconden las estrellas cuando llega el amanecer,
-pero ninguna olvida su manera de volver.
-Y hay miradas que tienen algo parecido a ese brillo:
-aparecen por un instante y dejan luz en el camino.
+Los árboles conocen la paciencia de esperar,
+las raíces saben cuándo es momento de brotar;
+quizá por eso algunas bellezas tardan en aparecer,
+pero cuando finalmente llegan, no se pueden perder.
 
-Se puede llenar un jardín de flores y color,
-de rosas, de jazmines y perfume alrededor;
-pero hay una belleza que no necesita primavera,
-porque florece por sí sola, de una forma verdadera.
+La tinta puede secarse, el papel puede envejecer,
+y aun así quedan palabras que se niegan a desaparecer.
+Porque hay musas que inspiran un verso pasajero
+y otras que consiguen convertirlo en algo eterno.
 
-Si alguna vez la poesía pudiera escoger
-qué belleza guardar y cuál dejar desaparecer,
-no escogería la luna, ni el cielo, ni el mar:
-guardaría aquello que me recuerda a tu forma de mirar.
+Lejana de cualquier definición,
+eres de esas bellezas que escapan de una explicación.
+Y quizá sea mejor dejar algunas cosas sin nombrar,
+porque hay encantos que pierden su magia al intentar explicar.`,
+  "2026-09-18": `Entre las páginas que el tiempo se empeña en cerrar,
+hay versos que se quedan y se niegan a terminar.
+Como una historia escrita con tinta invisible,
+de esas que vuelven hermoso hasta lo imposible.
 
-Y quizá por eso, cuando la tarde se apaga
-y la última luz sobre los tejados se derrama,
-el mundo sigue siendo hermoso, eso es verdad,
-pero desde que existes, tiene otra forma de brillar.`,
-  "2026-09-18": `A veces la tinta sabe cosas que yo no sé decir,
-se mueve entre mis manos cuando pienso en ti.
-Y sin pedir permiso comienza a dibujar
-aquello que mis palabras no consiguen explicar.
+Entre las sombras también nace la claridad,
+una pequeña luz que desafía la oscuridad.
+Y hay algo en tu esencia que tiene esa virtud:
+hacer que hasta la noche parezca guardar un poco de luz.
 
-Aparecen en el papel pequeñas maravillas,
-versos que nacen despacio, como nacen las semillas.
-Una palabra busca a otra y la vuelve canción,
-como si cada letra conociera el camino a tu corazón.
+El viento puede borrar las huellas sobre la arena,
+pero nunca consigue borrar aquello que deja una huella verdadera.
+Así hay presencias que pasan sin hacer ruido,
+y terminan viviendo donde antes nada había existido.
 
-Afuera la tarde derrama su último color,
-mientras el papel se llena poco a poco de tu esencia.
-No sé qué tiene tu presencia en mi imaginación,
-que hasta el silencio parece tener inspiración.
+Entre un millón de colores elegiría aquel
+que se parece a la calma que encuentro al pensar en ti.
+No sé si existe, ni sé cómo llamarlo,
+solo sé que desde que lo conozco, no quiero olvidarlo.
 
-A veces quisiera escribirte un poema perfecto,
-de esos que sobreviven al paso del tiempo.
-Pero cada vez que creo haber encontrado el final,
-aparece otro verso que te vuelve a nombrar.
+El tiempo tiene la costumbre de llevarse casi todo,
+pero hay bellezas que encuentra y decide guardar de otro modo.
+Quizá por eso, cuando la memoria te vuelve a encontrar,
+hasta los recuerdos parecen querer florecer una vez más.
 
-Así nacen los poemas que llevan tu mirada,
-entre palabras sencillas y noches prolongadas.
-No buscan explicar lo que resulta inexplicable,
-solo guardar un instante de algo inolvidable.
+Y si alguna vez el mundo pierde su color,
+si la tarde se vuelve gris y se apaga el resplandor,
+bastará con recordar que existen personas como tú
+para que vuelva a parecer posible encender la luz.`,
+  "2026-09-19": `A veces el mar guarda secretos en su espuma,
+historias que ninguna marea descubre por completo.
+Y hay miradas que se parecen a esas aguas profundas,
+porque cuanto más las miras, más quieres conocerlas.
 
-Y si alguna vez la tinta deja de correr,
-será porque ya no encontró qué más decir de ti.
-Aunque dudo que eso llegue a suceder,
-porque siempre habrá una página donde vuelvas a aparecer.
+A veces una rosa abre sus pétalos lentamente,
+como si supiera que la belleza no necesita prisa.
+Así también hay encantos que aparecen de repente,
+pero permanecen mucho después de haberlos visto.
 
-Al final, quizá eso hacen las musas sin saber:
-dejan al poeta con ganas de volver a escribir otra vez.
-Y tú, sin hacer nada, consigues esa magia,
-hacer que hasta una hoja en blanco
-tenga ganas de convertirse en poesía.`
+Al caer la tarde, el horizonte cambia de vestido,
+se vuelve naranja, dorado, casi encendido.
+Y pienso que el sol debe conocer bien tu sonrisa,
+porque solo algo así podría enseñarle a despedirse con tanta belleza.
+
+A veces la música nace de un simple silencio,
+de una nota perdida buscando su lugar.
+Y hay personas que tienen esa misma magia:
+no necesitan decir demasiado para hacerse escuchar.
+
+Algunas estrellas parecen hechas para la noche,
+algunas flores parecen hechas para la primavera,
+y quizá ciertas almas fueron hechas para convertirse
+en aquello que un poeta busca cuando escribe.
+
+A ti te escribiría con tinta de madrugada,
+con versos que no sepan dónde termina la palabra.
+Porque si la belleza tuviera una forma de quedarse,
+tal vez tendría tu manera de mirar
+y esa costumbre tuya de hacer que todo parezca más bonito.`,
+  "2026-09-20": `Nace la tarde vestida de colores,
+como si el cielo quisiera guardar sus mejores flores;
+el sol se despide detrás del horizonte
+y deja un último destello sobre cada monte.
+
+Navega la brisa entre ramas y caminos,
+acariciando despacio los árboles dormidos;
+y hay algo en su forma de pasar sin avisar
+que me recuerda a tu manera de llegar.
+
+Ninguna estrella conoce el secreto del mar,
+ni la luna comprende por qué vuelve a brillar;
+pero quizá existen bellezas difíciles de explicar,
+de esas que aparecen y no se pueden olvidar.
+
+Nítida como el reflejo de la lluvia en el cristal,
+tu esencia tiene algo difícil de comparar;
+como un perfume perdido entre páginas de un libro,
+como una melodía que permanece aunque termine el sonido.
+
+No sé qué tienen tus ojos cuando miran,
+que hasta los silencios parecen cobrar vida;
+ni qué escondes en esa sonrisa tan serena,
+que vuelve más bonita hasta la tarde más sencilla.
+
+Nace un verso, después otro, y luego otro más,
+pero ninguno consigue decirte todo lo que hay detrás.
+Quizá porque hay musas que inspiran poesía
+y otras que consiguen convertirla en melodía.
+
+Y si alguna vez me preguntan de dónde nace
+esta costumbre de escribir cuando la noche cae,
+no necesitaré buscar una respuesta:
+bastará con recordar esa belleza tuya
+que convierte cualquier instante
+en algo digno de quedarse.`,
 };
