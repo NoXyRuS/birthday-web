@@ -438,4 +438,91 @@ no necesitaré buscar una respuesta:
 bastará con recordar esa belleza tuya
 que convierte cualquier instante
 en algo digno de quedarse.`,
+  "2026-09-21": `Oro derrama el sol sobre los jardines,
+y el viento juega entre pétalos y jazmines;
+entre tantos colores que despiertan al pasar,
+hay un amarillo que parece tener tu forma de brillar.
+
+Ojalá las flores supieran cuánto pueden decir,
+cómo un pequeño pétalo puede hacer sonreír;
+los girasoles persiguen la luz del día,
+pero ninguno conoce la calidez de tu alegría.
+
+Hay flores que nacen para adornar la primavera,
+y otras que parecen guardar una historia entera;
+algunas perfuman el aire al florecer,
+y otras tienen la extraña costumbre de hacerte querer.
+
+Entre pétalos amarillos encontré una pequeña verdad:
+que la belleza también puede hablar sin necesidad
+de grandes palabras ni promesas al viento,
+a veces basta una flor para guardar un sentimiento.
+
+Y si septiembre quisiera escribirte una carta,
+llenaría sus páginas de flores doradas;
+de tardes tibias, de luz y de calma,
+de esos pequeños detalles que se quedan en el alma.
+
+Porque hay personas que se parecen a la primavera,
+que llegan y hacen florecer hasta la espera;
+que sin hacer ruido llenan de color
+los rincones donde antes solo dormía el sol.
+
+Quizá por eso entre tantas flores amarillas
+hay una que siempre parece tener más vida:
+no porque sea distinta de las demás,
+sino porque al mirarla me recuerda a ti un poco más.
+
+Y mientras septiembre sigue pintando de oro el cielo,
+dejo estos versos entre pétalos y recuerdos;
+porque algunas flores duran solamente un instante,
+pero hay bellezas que el tiempo vuelve más importantes.
+
+Y tú eres de esas que no necesitan primavera
+para hacer que cualquier estación parezca más bella.`,
+  "2026-09-22": `Sobre el silencio de la tarde
+se queda suspendida una luz suave,
+como si el cielo, antes de oscurecer,
+quisiera guardar algo hermoso para después.
+
+Se desliza el viento entre los árboles,
+dejando murmullos sobre las hojas;
+y hay sonidos que nadie sabe explicar,
+pero que el corazón reconoce sin preguntar.
+
+Si la belleza pudiera tener memoria,
+quizá recordaría tu forma de mirar,
+esa calma que parece esconder historias
+que ninguna palabra consigue contar.
+
+Sonríe la tarde cuando piensa en ti,
+o al menos eso imagino cuando la veo así;
+porque hay días que tienen una luz diferente,
+como si llevaran un secreto entre la gente.
+
+Sobre el papel dejo caer estas palabras,
+una tras otra, despacio, sin prisa;
+como quien intenta dibujar con tinta
+aquello que solo se entiende cuando se mira.
+
+Sé que existen estrellas más brillantes,
+flores más delicadas y cielos más grandes,
+pero hay bellezas que no necesitan competir,
+porque tienen su propia manera de existir.
+
+Si alguna vez la poesía pudiera hablar,
+quizá no intentaría describirte demasiado;
+simplemente dejaría un espacio en blanco
+para que tus ojos terminaran el poema.
+
+Y entonces entendería que hay musas
+que no necesitan ser nombradas para inspirar,
+porque basta con pensarlas un instante
+para que las palabras comiencen a florecer.
+
+Solo así tendría sentido esta tinta,
+este pequeño intento de guardar tu esencia:
+hacer de un instante una página,
+y de una mirada,
+un poema que todavía no termina.`
 };
