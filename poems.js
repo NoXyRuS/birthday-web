@@ -524,5 +524,44 @@ Solo así tendría sentido esta tinta,
 este pequeño intento de guardar tu esencia:
 hacer de un instante una página,
 y de una mirada,
-un poema que todavía no termina.`
+un poema que todavía no termina.`,
+  "2026-09-23": `A veces el tiempo guarda cosas pequeñas,
+instantes que parecen perderse entre las horas,
+pero que permanecen en algún rincón secreto,
+como una canción que el silencio todavía recuerda.
+
+Aroma de café, páginas abiertas,
+una tarde tranquila detrás de la ventana;
+hay momentos que no necesitan grandeza
+para quedarse viviendo dentro de la memoria.
+
+Acaricia la brisa las cortinas,
+y el mundo parece bajar la voz;
+entonces pienso que existen presencias
+que llegan sin ruido y dejan luz alrededor.
+
+Algunas personas tienen esa extraña magia:
+hacen especial lo que parecía cotidiano,
+como convertir una tarde cualquiera
+en un recuerdo que uno quisiera guardar.
+
+A ti podría compararte con mil cosas,
+con la calma de un libro, con una canción,
+con ese instante preciso de una melodía
+que consigue quedarse dando vueltas en el corazón.
+
+Aunque ninguna comparación sería suficiente,
+porque hay bellezas que no caben en un nombre;
+se parecen más a aquello que uno siente
+cuando encuentra algo que no sabía que estaba buscando.
+
+Así que dejo estas palabras sobre el papel,
+sin intentar encerrarte en una descripción;
+prefiero que cada verso guarde un fragmento
+de aquello que despiertas sin saberlo.
+
+A veces un poema no necesita terminar,
+porque algunas musas dejan la puerta entreabierta;
+y mientras exista una palabra capaz de nombrarte,
+siempre habrá otra página esperando por ti.`
 };
