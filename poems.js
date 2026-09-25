@@ -563,5 +563,133 @@ de aquello que despiertas sin saberlo.
 A veces un poema no necesita terminar,
 porque algunas musas dejan la puerta entreabierta;
 y mientras exista una palabra capaz de nombrarte,
-siempre habrá otra página esperando por ti.`
+siempre habrá otra página esperando por ti.`,
+  "2026-09-24": `La tuya tiene algo de eso,
+algo difícil de poner en palabras:
+como una canción que empieza sin aviso
+y de pronto cambia el ánimo de la habitación.
+
+Las manos también guardan historias,
+aunque nadie se detenga a leerlas;
+hay gestos pequeños que dicen mucho,
+formas de moverse que revelan belleza.
+
+La tuya tiene esa delicadeza
+de quien no necesita hacer demasiado
+para dejar una impresión bonita
+en todo aquello que toca.
+
+Luego están tus ojos,
+dos lugares donde el tiempo parece detenerse;
+no por tener un color determinado,
+sino por esa manera tuya de mirar
+como si siempre hubiera algo más por descubrir.
+
+Y tu sonrisa...
+esa merece un poema aparte,
+porque aparece sin pedir permiso
+y tiene la extraña costumbre
+de hacer que todo parezca un poco más ligero.
+
+Las palabras tampoco se quedan atrás;
+cuando salen de ti tienen otro peso,
+como si incluso lo cotidiano
+supiera mejor cómo decirse cuando lo dices tú.
+
+Y quizá esa sea tu magia:
+no parecerte a nada extraordinario,
+pero conseguir que lo ordinario
+termine pareciendo extraordinario contigo.
+
+Lo curioso es que intento encontrarte
+en metáforas, canciones y versos,
+y siempre termino descubriendo lo mismo:
+que ninguna comparación me convence del todo.
+
+Porque hay personas que inspiran un poema,
+y luego están aquellas que hacen que el poeta
+quiera seguir escribiendo
+solo para ver si algún día encuentra
+la palabra que se parezca un poquito a ellas.`,
+  "2026-09-25": `A veces el día no comienza:
+se abre.
+
+Una pequeña grieta en la noche,
+un hilo de luz sobre la mesa,
+el mundo entrando lentamente
+en aquello que todavía no sabe nombrarse.
+
+Hay cosas que existen de ese modo:
+sin anunciarse.
+
+Un instante antes no estaban,
+y después
+parece imposible imaginar la vida
+sin ese pequeño cambio.
+
+Así ocurre con ciertas presencias.
+
+No ocupan un espacio,
+lo transforman.
+
+Una habitación sigue siendo una habitación,
+la tarde conserva sus mismos colores,
+el reloj insiste en su antigua costumbre;
+pero algo ha cambiado de lugar
+y nadie sabe decir qué.
+
+Tal vez sea el tiempo.
+
+Tal vez nosotros.
+
+Tal vez esa extraña forma
+que tiene lo inesperado
+de volverse necesario.
+
+Porque hay encuentros
+que no llegan para quedarse,
+sino para enseñarnos
+que también se puede habitar
+un instante.
+
+Y desde entonces
+cada instante guarda una puerta.
+
+No sé qué hay detrás.
+
+No quiero saberlo.
+
+Me basta con esa luz
+que aparece algunas veces
+entre las cosas,
+esa pausa inexplicable
+en medio del ruido,
+ese momento en que el mundo
+parece detenerse apenas
+para recordar que existe.
+
+Y entonces pienso en ti.
+
+No como quien recuerda un nombre,
+sino como quien descubre
+que algo estuvo allí desde siempre
+y recién ahora
+aprendió a verlo.
+
+Quizá algunas personas sean eso:
+
+una pregunta que no pide respuesta,
+un silencio que no está vacío,
+una pequeña luz
+que modifica la forma
+en que miramos la oscuridad.
+
+Y basta.
+
+No hace falta decir más.
+
+Hay presencias
+que se comprenden mejor
+cuando las palabras
+se quedan en silencio.`
 };
