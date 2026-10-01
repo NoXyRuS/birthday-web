@@ -691,5 +691,353 @@ No hace falta decir más.
 Hay presencias
 que se comprenden mejor
 cuando las palabras
-se quedan en silencio.`
+se quedan en silencio.`,
+  "2026-09-26": `Me gusta pensar que lo nuestro comenzó mucho antes
+de que pudiéramos ponerle un nombre.
+
+Quizá en alguna conversación que se alargó sin motivo,
+en una hora cualquiera que terminó siendo importante,
+en ese pequeño instante
+en que dos vidas, sin saberlo,
+decidieron caminar un poco más cerca.
+
+Desde entonces el tiempo tiene otra forma.
+
+Hay días que pasan deprisa,
+como si quisieran escaparse,
+y otros que se quedan entre nosotras
+con la paciencia de quien sabe
+que todavía tiene algo que decir.
+
+Hemos aprendido también
+que estar juntas no siempre significa estar cerca.
+
+A veces basta una palabra,
+una historia contada al final del día,
+una pequeña costumbre que solo nosotras entendemos,
+para que la distancia pierda su oficio
+y vuelva a parecerse a una simple calle
+entre dos casas.
+
+Me gusta eso de nosotras:
+
+que no todo necesita ser extraordinario.
+
+Hay belleza en lo pequeño,
+en aquello que nadie más miraría dos veces;
+en las cosas que hemos ido haciendo nuestras
+sin darnos cuenta,
+como quien deja pequeñas señales
+a lo largo de un camino.
+
+Y quizá amar sea también eso:
+
+ir llenando de significado
+lugares donde antes no había ninguno.
+
+Una fecha deja de ser una fecha.
+Una canción deja de ser solamente una canción.
+Una palabra adquiere otro peso.
+Y un día cualquiera
+puede guardar de pronto
+todo un pedazo de nuestra historia.
+
+Por eso cuando pienso en nosotras
+no pienso en algo terminado,
+ni en una fotografía quieta.
+
+Pienso en un camino.
+
+En nuestras huellas mezclándose unas con otras,
+sin saber exactamente dónde termina una
+y comienza la otra.
+
+Y me gusta no saberlo.
+
+Porque todavía queda mucho camino,
+muchos días que aún no conocemos,
+muchas pequeñas cosas
+que algún día serán recuerdos.
+
+Tal vez eso sea lo más bonito:
+
+que mientras el tiempo pasa,
+nosotras seguimos llenándolo de significado.
+
+Y así, casi sin darnos cuenta,
+vamos convirtiendo lo cotidiano
+en algo que solamente nosotras
+sabemos llamar hogar.`,
+  "2026-09-27": `Ocurre lentamente.
+
+Casi nunca sabemos en qué momento empieza.
+
+Un día una conversación dura más de lo previsto,
+una costumbre aparece sin anunciarse,
+una persona comienza a habitar los pensamientos
+con la naturalidad de quien siempre estuvo allí.
+
+Después llegan esas pequeñas coincidencias:
+
+esperar un mensaje,
+guardar algo para contarlo más tarde,
+pensar en la misma canción,
+detenerse un instante durante el día
+solo para preguntarse qué estará haciendo la otra.
+
+Y sin darse cuenta,
+dos tiempos distintos aprenden a encontrarse.
+
+Tus mañanas y las mías,
+tus días y los míos,
+cada una con su propio camino,
+y aun así existiendo ese hilo invisible
+que une una hora con otra,
+una rutina con otra,
+una vida con otra.
+
+Me gusta pensar que el cariño se parece a eso:
+
+no a algo que irrumpe de golpe,
+sino a algo que se va acomodando despacio,
+como la luz cuando entra por una ventana
+y transforma una habitación
+sin mover nada de lugar.
+
+Tal vez por eso hay fechas que importan,
+conversaciones que permanecen,
+momentos pequeños que el tiempo decide guardar.
+
+No porque hayan sido extraordinarios,
+sino porque estaban hechos de algo sencillo y verdadero:
+
+estar.
+
+Estar en la vida de alguien,
+hacer espacio para sus días,
+aprender sus silencios,
+alegrarse por sus alegrías,
+guardar sus palabras.
+
+Y quizá lo más bonito de todo
+sea que esto sigue ocurriendo.
+
+Todavía hay cosas que descubrir,
+historias que contarnos,
+instantes que aún no existen.
+
+Y pensar en eso
+se parece un poco a mirar un camino:
+
+no por saber adónde lleva,
+sino por la alegría de seguir recorriéndolo juntas.`,
+  "2026-09-28": `Recuerdo que antes de ti
+los días pasaban sin preguntar,
+la mañana nacía, la tarde se iba,
+y la noche volvía a comenzar.
+
+Todo parecía estar en su sitio,
+cada hora sabía dónde caer,
+hasta que llegaste despacio
+y algo empezó a suceder.
+
+No fue un cambio de cielo
+ni una señal sobre el mar,
+fue apenas una pequeña costumbre:
+tenerte y quererme quedar.
+
+Desde entonces miro distinto
+las cosas que suelen pasar,
+una conversación cualquiera
+puede volverse un lugar.
+
+Una palabra puede guardar un recuerdo,
+una fecha puede tener otro valor,
+y un día que parecía cualquiera
+puede terminar hablando de amor.
+
+Me gusta que lo nuestro no sea perfecto,
+que tenga silencios, preguntas y verdad,
+que a veces nos cueste encontrarnos
+y aun así volvamos a intentar.
+
+Porque quererse no es conocerse entero,
+ni tener cada respuesta al final;
+es descubrir, con el paso del tiempo,
+que todavía queda algo por mirar.
+
+Y eso me gusta de nosotras:
+que no dejamos de aprender,
+que cada día trae una pequeña sorpresa,
+una nueva forma de entender.
+
+No quiero saberlo todo,
+ni cerrar lo que está por venir;
+prefiero que queden misterios
+que nos den razones para seguir.
+
+Porque quizá el amor sea eso:
+no llegar nunca a un punto final,
+sino encontrar en la misma persona
+otra forma de volver a empezar.
+
+Y si mañana cambiamos un poco,
+si la vida nos vuelve a sorprender,
+quiero seguir descubriendo contigo
+todo aquello que todavía no sé.`,
+  "2026-09-29": `Duerme la ciudad cuando la noche se inclina,
+las calles se quedan sin voz ni rutina,
+y una pequeña luz, detrás de una ventana,
+se niega a apagarse aunque avance la mañana.
+
+No es la luz del día,
+ni la de una estrella perdida;
+es algo más pequeño,
+pero extrañamente más cerca de la vida.
+
+Una luz que no busca vencer la oscuridad,
+solo quedarse allí, con su tranquila claridad;
+que no necesita incendiar el cielo
+para hacer menos frío el silencio.
+
+A veces pienso que así llegaste tú:
+sin ruido, sin anunciarte,
+como una claridad que aparece despacio
+y termina cambiando el lugar donde cae.
+
+Porque hay luces que solamente iluminan,
+y otras que algo dentro de nosotros despiertan;
+unas muestran el camino por donde pasar,
+otras hacen que queramos quedarnos a mirar.
+
+Tú tienes algo de esa segunda luz,
+de las que no ciegan,
+de las que no exigen ser vistas,
+pero vuelven más amable la oscuridad.
+
+Y qué extraño es pensar
+que una persona pueda parecerse tanto a una llama:
+no porque consuma,
+sino porque abriga;
+no porque haga ruido,
+sino porque permanece encendida.
+
+Quizá por eso, cuando pienso en ti,
+la noche ya no me parece tan vacía;
+hay una pequeña claridad que permanece,
+como si en algún rincón del mundo
+todavía estuvieras encendiendo el día.
+
+Y si alguna vez la oscuridad pregunta
+qué luz se quedó conmigo,
+no voy a señalar el cielo.
+
+Voy a pensar en ti
+y dejar que la noche entienda
+por qué algunas luces
+no necesitan estar cerca
+para sentirse como hogar.`,
+  "2026-09-30": `En algún lugar existe una canción
+que nadie escribió completa.
+
+Tiene pausas donde otros pondrían palabras,
+silencios que duran apenas lo necesario,
+y una melodía que parece sencilla
+hasta que uno intenta seguirla.
+
+Pienso que algunas historias se parecen a eso.
+
+No avanzan siempre con la misma música.
+A veces una nota se queda suspendida,
+otra cambia de rumbo,
+y hay silencios que terminan diciendo
+mucho más que cualquier palabra.
+
+Me gusta que entre nosotras
+no todo necesite explicación.
+
+Hay cosas que simplemente entendemos,
+pequeñas señales que aparecen
+en medio de una conversación
+y que para cualquiera serían nada,
+pero para nosotras significan algo.
+
+Como una canción que solo dos personas conocen:
+puede sonar igual para todo el mundo,
+pero solamente ellas saben
+dónde comienza realmente.
+
+Y quizá ahí está lo bonito.
+
+No en coincidir siempre,
+sino en aprender a escucharnos
+cuando la melodía cambia.
+
+A veces seguir el ritmo,
+a veces esperar,
+a veces dejar que la otra marque el compás
+y otras veces encontrarlo juntas.
+
+Porque querer también tiene música:
+
+no siempre es una canción perfecta,
+ni necesita serlo.
+
+Basta con que exista
+esa pequeña armonía
+que aparece cuando dos personas
+dejan de intentar llevar el mismo paso
+y comienzan, simplemente,
+a caminar al mismo ritmo.
+
+Y si alguna vez alguien me preguntara
+qué canción me recuerda a nosotras,
+creo que no sabría responder.
+
+Quizá porque lo nuestro
+no tiene una melodía que pueda encontrarse en ningún lugar.
+
+Se parece más a esas canciones
+que uno no sabe cuándo empezó a escuchar,
+pero que, de algún modo,
+ya sabe de memoria.`,
+  "2026-10-01": `Mirada de luna, sonrisa de primavera,
+tu presencia parece una canción pasajera,
+de esas que llegan sin hacer ruido
+y dejan el mundo un poco más bonito.
+
+Tus ojos parecen guardar estrellas,
+pequeños universos llenos de belleza,
+como dos luces perdidas en la noche
+que hacen que hasta la oscuridad se vuelva hermosa.
+
+Tu sonrisa tiene algo inexplicable,
+como el primer rayo de sol al amanecer,
+como una flor que aparece entre la lluvia
+y hace que todo vuelva a florecer.
+
+Tu voz tiene la calma de una noche tranquila,
+suave como la brisa que acaricia las hojas,
+y tu risa parece una melodía
+que convierte los silencios en momentos especiales.
+
+Hay personas que parecen hechas de poesía,
+de pequeños detalles y de magia escondida,
+de miradas que dicen más que mil palabras
+y de una belleza que el tiempo no consigue borrar.
+
+Si las estrellas pudieran escoger un cielo,
+quizá elegirían quedarse en tu mirada,
+y si la luna pudiera escoger una noche,
+tal vez querría iluminarte solo a ti.
+
+Porque hay bellezas que no necesitan adornos,
+ni palabras grandes para ser recordadas;
+simplemente aparecen, brillan un instante
+y dejan su huella en el alma.
+
+Y si algún día el mundo se queda sin colores,
+bastaría con una sonrisa tuya
+para devolverle a la vida
+un poco de primavera.`
 };
