@@ -1039,5 +1039,170 @@ y dejan su huella en el alma.
 Y si algún día el mundo se queda sin colores,
 bastaría con una sonrisa tuya
 para devolverle a la vida
-un poco de primavera.`
+un poco de primavera.`,
+  "2026-10-02": `Inclusive el silencio parece distinto
+cuando tu recuerdo lo atraviesa,
+como si algo invisible
+supiera exactamente
+dónde dejar ternura.
+
+Hay una forma de quererte
+que no necesita grandes palabras:
+se parece al calor que permanece
+después de un abrazo,
+a esa calma inesperada
+que encuentra el corazón
+cuando por fin deja de buscar.
+
+Y me gusta quererte así,
+sin hacer del amor una promesa,
+sino un lugar secreto
+donde todo se vuelve más suave.
+
+Porque entre tantas cosas
+que la vida pudo poner frente a mí,
+qué bonito fue encontrarte
+y descubrir que algunas personas
+no llegan para cambiarlo todo,
+sino para hacer que todo
+se sienta un poco más hermoso.`,
+  "2026-10-03": `Vine a entender que hay afectos
+que no llegan como una tormenta,
+sino como la raíz de un árbol:
+sin anunciarse,
+sin pedir espacio,
+hasta que un día descubres
+que ya sostienen algo de ti.
+
+Así se parece quererte.
+
+No a una llama que necesita arder
+para demostrar que existe,
+sino a esa tibieza que permanece
+cuando todo alrededor se vuelve frío;
+a la extraña certeza
+de que hay un nombre que, al pronunciarlo,
+hace más amable la espera.
+
+Me gusta que lo nuestro
+no necesite parecerse a nada.
+Tiene sus propias formas,
+sus pausas, sus pequeñas contradicciones,
+esa manera tan nuestra
+de acercarnos incluso cuando la distancia
+parece querer decir lo contrario.
+
+Y quizá amar sea justamente eso:
+no encontrar a alguien perfecto,
+sino encontrar a alguien
+con quien hasta las imperfecciones
+parecen tener un lugar.
+
+Por eso te quiero
+sin convertirte en una idea imposible,
+sin adornarte de perfecciones inventadas.
+Te quiero en lo verdadero,
+en lo que eres cuando nadie está mirando,
+en aquello que no necesita ser explicado
+para hacerme sentir afortunada.
+
+Y si alguna vez me preguntaran
+qué cambió cuando llegaste,
+no sabría señalar una sola cosa.
+
+Solo diría que, desde entonces,
+hay una parte de mi corazón
+que aprendió una forma nueva de latir,
+y que, por alguna razón,
+se parece mucho a tu manera de existir.`,
+  "2026-10-04": `Incluso la calma tiene otra forma
+cuando lleva un poco de cariño.
+Se vuelve más tibia,
+menos vacía,
+como una habitación que conserva
+el calor de alguien que acaba de irse.
+
+Así siento algunas veces
+lo que despiertas en mí.
+
+No es estruendo,
+ni esa clase de amor que necesita anunciarse;
+es algo mucho más íntimo,
+una dulzura que aparece despacio
+y se queda donde antes
+solo había costumbre.
+
+Me gusta quererte sin convertirte
+en una idea perfecta.
+Me gusta lo humano de lo que sentimos,
+las pequeñas rarezas,
+las cosas que no salen como imaginábamos
+y aun así terminan teniendo belleza.
+
+Porque contigo descubrí
+que el amor también puede ser sencillo:
+una confianza que crece,
+un cariño que no exige,
+una cercanía que no depende
+de tener siempre las palabras correctas.
+
+Hay algo profundamente bonito
+en encontrar a alguien
+ante quien el corazón no necesita actuar.
+
+Y cuando pienso en todo eso,
+entiendo que no fue el mundo
+el que se volvió distinto.
+
+Fui yo,
+aprendiendo lentamente
+que también existe una manera de amar
+que no pesa,
+que no aprieta,
+que simplemente abraza
+y permanece.`,
+  "2026-10-05": `Descalza la tarde
+sobre los tejados,
+y en algún balcón
+una cortina se mueve
+sin que nadie la toque.
+
+La ciudad guarda sus secretos
+detrás de las ventanas,
+las calles cambian de nombre
+cuando cae la noche,
+y las sombras inventan
+formas que la mañana deshace.
+
+Hay una belleza extraña
+en todo aquello que no permanece igual:
+la flor que se inclina,
+el perfume que se pierde,
+la luz que atraviesa una habitación
+solo para desaparecer después.
+
+Quizá la belleza nunca estuvo
+en quedarse intacta,
+sino en pasar por el mundo
+dejando una forma distinta
+de haberlo mirado.
+
+Por eso algunas cosas
+merecen ser contempladas despacio,
+sin convertirlas en promesas,
+sin intentar guardarlas.
+
+Solo dejarlas existir
+con toda su delicadeza,
+como quien contempla una obra
+y comprende que tocarla
+sería quitarle algo.
+
+Y en medio de todo aquello,
+hay nombres que parecen escritos
+con una tinta más antigua,
+como si hubieran esperado
+mucho antes de ser pronunciados.
+
+El tuyo es uno de ellos.`
 };
