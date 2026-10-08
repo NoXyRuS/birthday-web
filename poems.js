@@ -1204,5 +1204,71 @@ con una tinta más antigua,
 como si hubieran esperado
 mucho antes de ser pronunciados.
 
-El tuyo es uno de ellos.`
+El tuyo es uno de ellos.`,
+  "2026-10-06": `A veces la luna parece
+una carta a medio escribir,
+una palabra suspendida
+entre la noche y el alba.
+
+Quizá por eso hay nombres
+que parecen pertenecer
+a ciertas cosas hermosas:
+a la lluvia cuando comienza,
+a las flores cuando despiertan,
+a la luz que se queda
+sobre las paredes al atardecer.
+
+El tuyo podría estar escrito
+en el margen de algún libro antiguo,
+entre páginas que nadie ha leído,
+junto a una frase olvidada
+que todavía conserva su belleza.
+
+No hace falta que el cielo lo sepa,
+ni que las estrellas lo repitan.
+Hay nombres que tienen su propia manera
+de iluminar la página
+sin necesitar más que unas pocas letras.
+
+Y quizá la noche,
+con todos sus misterios,
+guarde también pequeños secretos
+que solo existen para ser contemplados.
+
+Entre ellos,
+uno lleva tu nombre.`,
+  "2026-10-07": `Queda entre las páginas
+el perfume de una historia,
+como quedan las palabras
+cuando encuentran su memoria.
+
+Un tren cruza la distancia,
+lleva nombres, lleva sueños,
+y en sus rieles va dejando
+rumbo a lugares pequeños.
+
+En una plaza, una fuente
+repite su antigua canción;
+un reloj guarda en silencio
+la paciencia de una estación.
+
+Hay balcones con geranios,
+cartas dentro de un cajón,
+fotografías que conservan
+la textura de otra ocasión.
+
+Y entre tantas cosas bellas
+que el tiempo aprende a guardar,
+hay una que no necesita
+ni quedarse ni marchar.
+
+Basta escribirla despacio,
+sin adornarla de más:
+hay nombres que, con tan poco,
+lo dicen todo al pasar.
+
+Y el tuyo, entre esas letras,
+tiene una extraña claridad:
+parece una palabra antigua
+que aprendió a significar.`,
 };
