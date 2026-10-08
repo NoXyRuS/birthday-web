@@ -33,11 +33,11 @@
   function getTarget() {
     var now = new Date();
     var year = now.getFullYear();
-    var target = new Date(year, 9, 8, 0, 0, 0);
-    if (now.getTime() >= target.getTime()) {
-      target = new Date(year + 1, 9, 8, 0, 0, 0);
+    var end = new Date(year, 9, 9, 0, 0, 0);
+    if (now.getTime() >= end.getTime()) {
+      return new Date(year + 1, 9, 8, 0, 0, 0);
     }
-    return target;
+    return new Date(year, 9, 8, 0, 0, 0);
   }
 
   var target = getTarget();
@@ -50,11 +50,29 @@
     return now >= start && now < end;
   }
 
+  var homeBirthdayDone = false;
+
+  function birthdayHome() {
+    if (homeBirthdayDone) return;
+    homeBirthdayDone = true;
+    launchConfetti();
+    var title = document.querySelector('.countdown-section .section-title');
+    if (title) title.style.display = 'none';
+    if (TARGET_EL) TARGET_EL.style.display = 'none';
+    var el = document.getElementById('countdown');
+    el.innerHTML =
+      '<p class="birthday-message">Hoy es tu día, mi amor. Felicidades.</p>' +
+      '<div class="poem-card home-poem"></div>';
+    var key = toKey(new Date());
+    var all = window.POEMS || {};
+    if (all[key]) {
+      renderPoem(all[key], 'Hoy, ' + friendly(key), el.querySelector('.poem-card'));
+    }
+  }
+
   function tick() {
     if (isBirthdayNow()) {
-      launchConfetti();
-      document.getElementById('countdown').innerHTML =
-        '<p class="birthday-message">Hoy es tu día, mi amor. Felicidades.</p>';
+      birthdayHome();
       return;
     }
     var diff = target.getTime() - Date.now();
@@ -129,13 +147,14 @@
     }
   }
 
-  function renderPoem(text, dateLabel) {
+  function renderPoem(text, dateLabel, target) {
     stopTyping();
-    dayEl.innerHTML =
+    var el = target || dayEl;
+    el.innerHTML =
       '<p class="poem-date">' + erase(dateLabel) + '</p>' +
       '<p class="poem-text is-typing"></p>';
 
-    var textEl = dayEl.querySelector('.poem-text');
+    var textEl = el.querySelector('.poem-text');
     var len = text.length;
     var i = 0;
 
@@ -238,10 +257,15 @@
       }
       var key = toKey(dayStart);
       var cls = 'cal-day selectable';
-      if (poems[key]) cls += ' has-poem';
+      var first = '';
+      if (poems[key]) {
+        cls += ' has-poem';
+        first = erase(String(poems[key]).replace(/^\s+/, '').charAt(0));
+      }
       if (key === todayKey) cls += ' today';
       if (key === selectedKey) cls += ' selected';
-      cells += '<button class="' + cls + '" type="button" data-key="' + key + '">' + d + '</button>';
+      cells += '<button class="' + cls + '" type="button" data-key="' + key + '">' + d +
+        (first ? '<span class="cal-first">' + first + '</span>' : '') + '</button>';
     }
 
     calGrid.innerHTML = cells;

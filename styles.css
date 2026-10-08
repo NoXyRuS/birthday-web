@@ -450,14 +450,14 @@ footer {
   border-color: var(--rose);
 }
 
-.cal-day.selectable.has-poem::after {
-  content: '';
+.cal-day.selectable.has-poem .cal-first {
   position: absolute;
-  bottom: 4px;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
-  background: var(--rose);
+  bottom: 2px;
+  font-size: 0.62rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--rose);
+  font-family: 'Cormorant Garamond', Georgia, serif;
 }
 
 .cal-day.selectable.today {
@@ -469,8 +469,8 @@ footer {
   color: #fff;
 }
 
-.cal-day.selectable.selected.has-poem::after {
-  background: #fff;
+.cal-day.selectable.selected.has-poem .cal-first {
+  color: #fff;
 }
 
 .cal-legend {

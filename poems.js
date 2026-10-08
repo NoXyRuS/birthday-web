@@ -1271,4 +1271,53 @@ Y el tuyo, entre esas letras,
 tiene una extraña claridad:
 parece una palabra antigua
 que aprendió a significar.`,
+  "2026-10-08": `Hoy es tu cumpleaños,
+y entre tantas cosas que podría decirte,
+me quedo pensando
+en lo bonito que es poder celebrarte.
+
+Celebrar tu forma de ser,
+esas pequeñas cosas que te hacen tú,
+las que quizá ni siquiera notas
+pero que yo podría reconocer
+entre un montón de personas.
+
+Me gusta saber que existe este día,
+que alguna vez el mundo decidió
+hacerte un espacio entre sus fechas
+y que, sin saberlo,
+terminaría siendo una fecha importante para mí.
+
+Ojalá pudiera regalarte
+todo lo bonito que todavía no encuentras,
+las tardes que terminan en risas,
+los planes que salen mejor de lo esperado,
+los abrazos que duran un poquito más
+y cada sueño que aún guardas en silencio.
+
+Pero como no puedo envolver esas cosas
+ni ponerles un lazo,
+te dejo estas palabras,
+que quizá sean un regalo pequeño,
+pero llevan algo que no sé esconder:
+lo mucho que me gustas,
+lo mucho que me encanta quererte,
+y esa felicidad tan sencilla
+de poder decir que, entre tantas personas,
+la vida me dejó encontrarte a ti.
+
+Así que hoy no quiero pedirle nada al mundo,
+solo quiero que te consienta un poquito,
+que te dé motivos para sonreír
+y que este cumpleaños
+sea tan bonito como tú.
+
+Feliz cumpleaños, mi niña.
+Ojalá pudiera explicarte con palabras
+todo lo que significas para mí,
+pero quizá sea mejor así:
+que algunas cosas no sepan decirse,
+solo sentirse.
+
+Y esta es una de ellas.`,
 };
